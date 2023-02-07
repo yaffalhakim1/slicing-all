@@ -8,7 +8,6 @@ import Kourse from "./intermediate/kourse";
 import Priced from "./intermediate/priced";
 import Digidaw from "./intermediate/digidaw";
 import Jobless from "./intermediate/jobless";
-import Zeitplan from "./advanced/Zeitplan";
 import Link from "next/link";
 
 const inter = Inter({ subsets: ["latin"] });

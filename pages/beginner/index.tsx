@@ -32,8 +32,8 @@ export default function TwitterEmbed() {
           {/* content */}
 
           <p className="text-white text-2xl font-normal mt-4 ml-32 leading-relaxed">
-            Why do they call it 'debugging' when it feels more like 'wildly
-            guessing and hoping for the best'? #programming #coding #debugging
+            Why do they call it debugging when it feels more like wildly
+            guessing and hoping for the best? #programming #coding #debugging
           </p>
           <p className="text-gray-500 text-lg font-normal mt-4 ml-32 leading-relaxed">
             650 3:40 PM – Feb 24, 2022

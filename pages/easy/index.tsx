@@ -131,10 +131,10 @@ export default function Holadok() {
               <p>John Doe</p>
             </div>
             <p className="font-normal text-sm ml-5 mt-3 mr-5 mb-3">
-              “The doctor appointment app has been great for me. Scheduling
+              The doctor appointment app has been great for me. Scheduling
               appointments and getting medication reminders is much easier, and
-              I love the option for virtual consultations. I'd recommend this
-              app to others.”
+              I love the option for virtual consultations. I would recommend
+              this app to others.
             </p>
           </div>
         </div>
